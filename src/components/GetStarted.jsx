@@ -4,7 +4,7 @@ const GetStarted = () => {
     return (
         <div
             className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full p-[2px] bg-blue-gradient cursor-pointer`}>
-            <div className={`${styles.flexCenter} flex-col bg-primary h-full w-full rounded-full`}>
+            <div className={`${styles.flexCenter} flex-col bg-[#000000fc] h-full w-full rounded-full`}>
                 <p
                     className={`${styles.flexStart} font-poppins text-[18px] font-medium leading-[23.4px] text-gradient`}>
                     Get

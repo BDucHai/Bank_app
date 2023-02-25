@@ -29,6 +29,9 @@
   background-clip: text;
   text-fill-color: transparent;
 }
+.text-dimWhite{
+  color: #b0abc1;
+}
 .bg-dimBlue{
   background:rgba(9, 151, 124, 0.1);
 }
